@@ -64,6 +64,7 @@ $cards
     },2500);
   });
 
+  /*
 function openLink(link) {
   var webbrowser = window.open(link, "_blank");
   if (webbrowser) {
@@ -78,4 +79,4 @@ var openLink1 = function(link) {
   }
 };
 
-openLink1("https://www.pokemon.com");
+openLink1("https://www.pokemon.com"); */
